@@ -3,7 +3,7 @@ const config: Config = {
     // DIFFERENT_DIMENSION_ME
     // AI_PAINTING_ANIME
     // AIGCSDK_AI_PAINTING_ANIME
-    mode: 'AI_PAINTING_SPRING',
+    mode: 'DIFFERENT_DIMENSION_ME',
 
     botToken: '5264968049:AAHUniq68Nqq39CrFf8lVqerwetirQnGxzc',
 
@@ -43,7 +43,7 @@ const config: Config = {
 
     parallelRequests: 10,
 
-     // proxyUrl: 'http://iraxqsbp:miqgnhdqmkqy@144.168.217.88',
+     proxyUrl: 'http://iraxqsbp:miqgnhdqmkqy@144.168.217.88',
 };
 
 export default config;
