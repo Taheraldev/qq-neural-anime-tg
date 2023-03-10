@@ -43,7 +43,7 @@ const config: Config = {
 
     parallelRequests: 10,
 
-     proxyUrl: 'socks5://iraxqsbp:miqgnhdqmkqy@144.168.217.88',
+    // proxyUrl: 'socks5://iraxqsbp:miqgnhdqmkqy@144.168.217.88',
 };
 
 export default config;
