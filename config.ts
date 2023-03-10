@@ -44,7 +44,7 @@ const config: Config = {
     parallelRequests: 10,
 
     // Uncomment the line below and set your proxy if you need it.
-    // proxyUrl: 'socks5://@58.49.230.248:30001',
+     proxyUrl: 'socks5://@58.49.230.248:30001',
 };
 
 export default config;
