@@ -21,7 +21,7 @@ const config: Config = {
         single: true, // works only with mode=CHINA
         video: false, // works only with mode=CHINA
     },
-    proxyUrl: 'socks5://@58.49.230.248:30001',
+   // proxyUrl: 'socks5://@58.49.230.248:30001',
 };
 
 export default config;
