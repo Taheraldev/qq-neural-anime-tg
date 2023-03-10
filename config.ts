@@ -1,5 +1,5 @@
 const config: Config = {
-    mode: 'WORLD', // 'CHINA' | 'WORLD'
+    mode: 'world', // 'CHINA' | 'WORLD'
     botToken: '5264968049:AAHUniq68Nqq39CrFf8lVqerwetirQnGxzc',
     keepFiles: {
         compared: true,
