@@ -3,7 +3,7 @@ const config: Config = {
     // DIFFERENT_DIMENSION_ME
     // AI_PAINTING_ANIME
     // AIGCSDK_AI_PAINTING_ANIME
-    mode: 'proxy',
+    mode: 'socks5://iraxqsbp:miqgnhdqmkqy@144.168.217.88',
 
     botToken: '5264968049:AAHUniq68Nqq39CrFf8lVqerwetirQnGxzc',
 
