@@ -1,6 +1,6 @@
 const config: Config = {
     
-    mode: 'DIFFERENT_DIMENSION_ME',
+    mode: 'proxies',
     
     botToken: '5264968049:AAHUniq68Nqq39CrFf8lVqerwetirQnGxzc',
 
