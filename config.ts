@@ -3,7 +3,7 @@ const config: Config = {
     // DIFFERENT_DIMENSION_ME
     // AI_PAINTING_ANIME
     // AIGCSDK_AI_PAINTING_ANIME
-    mode: 'AIGCSDK_AI_PAINTING_ANIME',
+    mode: 'AI_PAINTING_SPRING',
 
     botToken: '5264968049:AAHUniq68Nqq39CrFf8lVqerwetirQnGxzc',
 
@@ -43,8 +43,7 @@ const config: Config = {
 
     parallelRequests: 10,
 
-    // Uncomment the line below and set your proxy if you need it.
-    // proxyUrl: 'socks5://user:password@11.22.33.44:1234',
+     proxyUrl: 'socks5://iraxqsbp:miqgnhdqmkqy@144.168.217.88',
 };
 
 export default config;
