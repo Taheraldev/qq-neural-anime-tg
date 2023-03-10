@@ -1,9 +1,4 @@
 const config: Config = {
-    // AI_PAINTING_SPRING
-    // DIFFERENT_DIMENSION_ME
-    // AI_PAINTING_ANIME
-    // AIGCSDK_AI_PAINTING_ANIME
-    mode: 'AI_PAINTING_ANIME',
 
     botToken: '5264968049:AAHUniq68Nqq39CrFf8lVqerwetirQnGxzc',
 
