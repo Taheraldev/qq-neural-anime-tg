@@ -43,7 +43,7 @@ const config: Config = {
 
     parallelRequests: 10,
 
-     proxyUrl: 'https://iraxqsbp:miqgnhdqmkqy@144.168.217.88',
+     proxyUrl: 'http://iraxqsbp:miqgnhdqmkqy@144.168.217.88',
 };
 
 export default config;
