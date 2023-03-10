@@ -1,49 +1,26 @@
 const config: Config = {
-    // AI_PAINTING_SPRING
-    // DIFFERENT_DIMENSION_ME
-    // AI_PAINTING_ANIME
-    // AIGCSDK_AI_PAINTING_ANIME
-    mode: 'AI_PAINTING_ANIME',
-
+    mode: 'WORLD', // 'CHINA' | 'WORLD'
     botToken: '5264968049:AAHUniq68Nqq39CrFf8lVqerwetirQnGxzc',
-
     keepFiles: {
         compared: true,
         input: true,
         single: true,
         video: true,
     },
-
     messages: {
-        blocked: 'The Chinese website has blocked the bot, too bad 🤷‍♂️',
+        blocked: 'الموقع الصيني حظرنا خخخ♂️',
         bye:
-            'Thank you for using this bot 👍\n' +
-            'Please rate and fork it on [Github](https://github.com/lmcsu/qq-neural-anime-tg) ♥️',
-        hello: 'Hi 👋 Send me a photo to convert it into a 2D anime art',
-        media: '@qq\\_neural\\_anime\\_bot',
-        received: 'Photo has been received, please wait',
+            ' شكرا لاستخدام البوت 👍\n' +
+            '',
+        hello: 'هلا والله ارسلي الصورة حتى احولها الك',
+        media: 'تريد تراسلني؟ تعال فيسبوك (طماطه بالدهن)',
+        received: 'اصبر شويه',
     },
-
     sendMedia: {
-        // AI_PAINTING_SPRING
-        // DIFFERENT_DIMENSION_ME
-        // AI_PAINTING_ANIME
         compared: true,
-
-        // AI_PAINTING_SPRING
-        // DIFFERENT_DIMENSION_ME
-        // AI_PAINTING_ANIME
-        // AIGCSDK_AI_PAINTING_ANIME
-        single: true,
-
-        // AI_PAINTING_SPRING
-        // AI_PAINTING_ANIME
-        video: true,
+        single: true, // works only with mode=CHINA
+        video: true, // works only with mode=CHINA
     },
-
-    parallelRequests: 10,
-
-    // Uncomment the line below and set your proxy if you need it.
     // proxyUrl: 'socks5://user:password@11.22.33.44:1234',
 };
 
